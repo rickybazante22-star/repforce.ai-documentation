@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "RepForce.ai",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://repforce.ai"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://ecom.repforce.ai/booking"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://repforce.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -400,7 +400,7 @@
     "linkedin": "https://www.linkedin.com/company/autocalls-ai"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://repforce.ai/api/",
     "auth": {
       "method": "bearer"
     }
